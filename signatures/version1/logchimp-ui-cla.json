@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "Junko-Takeguchi",
+      "id": 104440265,
+      "comment_id": 3521984401,
+      "created_at": "2025-11-12T13:36:28Z",
+      "repoId": 1094901548,
+      "pullRequestNo": 6
+    }
+  ]
 }
